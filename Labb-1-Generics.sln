@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labb-1-Generics", "Labb-1-Generics.csproj", "{5AF4A95E-D833-44E4-8508-3CD273766502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AF4A95E-D833-44E4-8508-3CD273766502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF4A95E-D833-44E4-8508-3CD273766502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF4A95E-D833-44E4-8508-3CD273766502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF4A95E-D833-44E4-8508-3CD273766502}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21F0A42B-565B-476D-8770-313A6308395E}
+	EndGlobalSection
+EndGlobal
